@@ -3,6 +3,7 @@ body
     margin:0 
     padding:0
     font-family: sans-serif;
+    
 }
 /*--------------------------Header CSS-------------------*/ 
 #header
@@ -84,7 +85,10 @@ body
     background-color: darkgray;
     border: solid;
     border-color: darkblue;
+    
+    
 }
+
 
 /*---------------------Resume------------*/
 
@@ -111,7 +115,7 @@ body
     background: #555;
     display: inline-block;
     position: absolute;
-    left: 29px;
+    left: 10px;
     width: 2px;
     height: 100%;
     z-index: 1;
@@ -129,6 +133,7 @@ body
     padding: 5px 0 5px 20px;
     color: #fff;
     font-size: 15px;
+    
 }
 
 .timeline li h4 span
@@ -144,18 +149,21 @@ body
     position: absolute;
     border-radius: 50%;
     border: 3px solid #000;
-    left: 20px;
+    left: 2px;
     width: 20px;
     height: 20px;
     z-index: 1;    
 }
+
 
 /*--------------------Contact-----------------*/
 
 #contactinfo{
     background-color: gray;
     font-size: 30px;
-    margin-bottom: -32px;      
+    margin-bottom: -32px;
+    
+    
 }
 .contactinformation h3 {
     text-align: center;
