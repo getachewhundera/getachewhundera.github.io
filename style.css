@@ -85,10 +85,7 @@ body
     background-color: darkgray;
     border: solid;
     border-color: darkblue;
-    
-    
 }
-
 
 /*---------------------Resume------------*/
 
@@ -98,6 +95,8 @@ body
     padding-bottom: 30px;
     background: #f9f9f9;
     border-style: solid black;
+    display: table; 
+    width: 100%;
 }
 .resume h3
 {
