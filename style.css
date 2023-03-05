@@ -34,10 +34,6 @@ body
     front-weight: bold; 
     margin: 10px; 
 } 
-.user-box p 
-{
-    color: #fff; 
-}
 .scroll-btn
 {
     bottom: 30px;
